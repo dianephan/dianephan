@@ -1,4 +1,4 @@
-### tabs > spaces
+### tfw realize i should switch to spaces instead of tabs 😔😔
 
 <!--
 **dianephan/dianephan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
